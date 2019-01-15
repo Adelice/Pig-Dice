@@ -4,9 +4,26 @@
   } 
   body{
       background-image:url('https://cdn.shopify.com/s/files/1/1092/8088/products/1D6_Black_1024x1024.jpg?v=1546128310');
-      opacity:0.5;
+      
   }
   h1{
       color:beige;
-      text-shadow: 0 0 3px #fcb8b8;
+      text-align:center;
+      background-color: blue;
+      font-family:Arial, Helvetica, sans-serif;
+    
+      border:2px solid grey;
+
+  }
+  .col-md-6{
+     
+    
+  }
+  #new-game{
+      text-align:center;
+      background-color: grey;
+      color: white;
+      padding:10px;
+      font-size:24px;
+
   }
